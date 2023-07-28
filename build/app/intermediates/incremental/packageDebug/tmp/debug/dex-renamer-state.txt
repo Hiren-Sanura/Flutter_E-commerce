@@ -1,4 +1,4 @@
-#Fri Jul 28 17:50:03 IST 2023
-base.0=/Users/parasnavadiya/Projects/Flutter_project/Flutter_E-commerce/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+#Fri Jul 28 20:10:11 IST 2023
+base.0=D\:\\Flutter_E-commerce\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

@@ -2,6 +2,11 @@
 
 This is  project has used http, google_fonts, carousel_slider and provider.
 
+<!-- video link -->
+https://filetransfer.io/data-package/mIzZ13w0#link
+<!-- App link -->
+https://i.diawi.com/BUsYB1
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.

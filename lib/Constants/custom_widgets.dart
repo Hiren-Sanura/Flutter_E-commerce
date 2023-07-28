@@ -39,7 +39,6 @@ Widget appText(
   );
 }
 
-
 Widget cartDeatilsCardWidget(
     {required String title,
     required String id,
@@ -57,7 +56,7 @@ Widget cartDeatilsCardWidget(
         subtitle: Row(
           mainAxisSize: MainAxisSize.min,
           children: [
-            appText(text: "Price/Unit: ", textColor: AppColors.grey),
+            appText(text: "Price: ", textColor: AppColors.grey),
             appText(text: pricePerUnit),
             horizontalSpace(width: 7),
             appText(text: "Qty: ", textColor: AppColors.grey),
@@ -72,7 +71,6 @@ Widget cartDeatilsCardWidget(
             text: "\$$total", fontWeight: FontWeight.bold, fontSize: 16)),
   );
 }
-
 
 Widget cartCardWidget(
     {required String total,
