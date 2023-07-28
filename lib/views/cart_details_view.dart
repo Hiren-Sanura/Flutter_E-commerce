@@ -26,7 +26,7 @@ class _CartDetailsViewState extends State<CartDetailsView> {
         children: [
           Expanded(
             child: Padding(
-              padding: const EdgeInsets.symmetric(vertical: 8),
+              padding: const EdgeInsets.symmetric(vertical: 8, horizontal: 8),
               child: ListView.separated(
                 shrinkWrap: true,
                 itemCount: widget.productList.length,
@@ -52,4 +52,3 @@ class _CartDetailsViewState extends State<CartDetailsView> {
     );
   }
 }
-
